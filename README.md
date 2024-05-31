@@ -16,7 +16,6 @@ Git
 <br>
 
 <br>
-Atualmente estou estudando conteúdos sobre Ciência de Dados, portanto postarei repositórios envolvendo a área. <br>
 Quanto aos idiomas, sou fluente em português e possuo inglês intermediário. <br>
 <br>
 
