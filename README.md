@@ -10,6 +10,8 @@ Olá! Meu nome é Eduardo, tenho 19 anos.<br>
 <br>
 
 ### Hard Skills:
+Python
+<br>
 C++
 <br>
 Git 
