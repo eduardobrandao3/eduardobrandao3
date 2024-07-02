@@ -14,6 +14,8 @@ Python
 <br>
 C++
 <br>
+SQL
+<br>
 Git 
 <br>
 
