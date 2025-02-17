@@ -4,12 +4,16 @@
 
 ## Sobre mim:
 
-Olá! Meu nome é Eduardo, tenho 19 anos.<br>
-📚 Estou cursando Ciência da Computação na UFLA (Universidade Federal de Lavras) <br>
+Olá! Meu nome é Eduardo, tenho 20 anos.<br>
+📚 Estou cursando Ciência da Computação na UNIFEI (Universidade Federal de Itajubá) <br>
 📧 Quer entrar em contato comigo? Envie um e-mail para eduardobrandao0311@gmail.com <br>
 <br>
 
 ### Hard Skills:
+HTML
+<br>
+CSS
+<br>
 Python
 <br>
 C++
