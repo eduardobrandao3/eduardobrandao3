@@ -24,7 +24,7 @@ Git
 <br>
 
 <br>
-Quanto aos idiomas, sou fluente em português e possuo inglês intermediário. <br>
+Quanto aos idiomas, sou fluente em português e possuo inglês intermediário/ avançado <br>
 <br>
 
 ### Soft Skills:
