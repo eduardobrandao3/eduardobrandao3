@@ -14,6 +14,8 @@ HTML
 <br>
 CSS
 <br>
+JavaScript
+<br>
 Python
 <br>
 C++
