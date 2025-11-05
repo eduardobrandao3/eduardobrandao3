@@ -4,7 +4,7 @@
 
 ## Sobre mim:
 
-Olá! Meu nome é Eduardo, tenho 20 anos.<br>
+Olá! Meu nome é Eduardo, tenho 21 anos.<br>
 📚 Estou cursando Ciência da Computação na UNIFEI (Universidade Federal de Itajubá) <br>
 📧 Quer entrar em contato comigo? Envie um e-mail para eduardobrandao0311@gmail.com <br>
 <br>
@@ -24,6 +24,9 @@ SQL
 <br>
 Git 
 <br>
+POWER BI
+<br>
+Excel
 
 <br>
 Quanto aos idiomas, sou fluente em português e possuo inglês intermediário/ avançado <br>
